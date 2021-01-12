@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'API 文档',
+  title: 'API文档DEMO',
   base:'/',
   description: '从零开始',
   head: [
