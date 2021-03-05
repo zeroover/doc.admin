@@ -34,7 +34,12 @@ module.exports = {
     editLinkText: '在 GitHub 上编辑此页',
     /*  设置github页面编辑结束 */
 
-    
+    lastUpdated: 'Last Updated',
+    // 默认值是 true 。设置为 false 来禁用所有页面的 下一篇 链接
+    nextLinks: true,
+    // 默认值是 true 。设置为 false 来禁用所有页面的 上一篇 链接
+    prevLinks: true,
+
     nav: [
       { text: 'Home', link: '/api/FIRSTOFALL.md' },
       // {  text: '文档', link: '/api/FIRSTOFALL.md' },
