@@ -17,7 +17,7 @@ module.exports = {
   themeConfig: {
 
     /*  设置github页面编辑开始 */
-    repo: 'zeroover/doc.admin',
+    //repo: 'zeroover/doc.admin',
     //repoLabel: '查看源码',
 
     // 以下为可选的编辑链接选项
