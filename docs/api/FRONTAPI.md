@@ -13,7 +13,7 @@
 :--:|:--:|:--:|:--:
 name|string|是|用户名 2-12位 ，只能由字母数字组成，不能使用特殊符号
 email|string|是|邮箱
-password|string|是|密码6-16位 
+password|string|是|密码6-20位 
 
 
 
