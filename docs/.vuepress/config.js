@@ -15,6 +15,8 @@ module.exports = {
     lineNumbers: false //行号
   },
   themeConfig: {
+
+    /*  设置github页面编辑开始 */
     repo: 'zeroover/doc.admin',
     //repoLabel: '查看源码',
 
@@ -30,6 +32,9 @@ module.exports = {
     editLinks: true,
     // 默认为 "Edit this page"
     editLinkText: '在 GitHub 上编辑此页',
+    /*  设置github页面编辑结束 */
+
+    
     nav: [
       { text: 'Home', link: '/api/FIRSTOFALL.md' },
       // {  text: '文档', link: '/api/FIRSTOFALL.md' },
