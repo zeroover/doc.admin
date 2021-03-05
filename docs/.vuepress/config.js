@@ -15,6 +15,7 @@ module.exports = {
     lineNumbers: false //行号
   },
   themeConfig: {
+    repo: 'zeroover/doc.admin',
     nav: [
       { text: 'Home', link: '/api/FIRSTOFALL.md' },
       // {  text: '文档', link: '/api/FIRSTOFALL.md' },
