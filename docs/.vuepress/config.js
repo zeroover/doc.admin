@@ -16,7 +16,8 @@ module.exports = {
   },
   themeConfig: {
 
-    /*  设置github页面编辑开始 */
+    /*********   设置github页面编辑开始 **********/
+    
     //repo: 'zeroover/doc.admin',
     //repoLabel: '查看源码',
 
@@ -32,7 +33,8 @@ module.exports = {
     editLinks: true,
     // 默认为 "Edit this page"
     editLinkText: '在 GitHub 上编辑此页',
-    /*  设置github页面编辑结束 */
+
+    /**********  设置github页面编辑结束 **********/
 
     lastUpdated: 'Last Updated',
     // 默认值是 true 。设置为 false 来禁用所有页面的 下一篇 链接
